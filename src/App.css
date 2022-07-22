@@ -1,0 +1,55 @@
+.border{
+  display: flex;
+  gap: 12px;
+  border: none;
+  width:auto;
+  /* height: 550px; */
+  margin-top: 25px;
+}
+.App{
+  display: flex;
+  justify-content: center;
+  gap:12px;
+ 
+
+  /* height:100vh; */
+  /* justify-items: center; */
+}
+.home{
+  display: flex;
+  flex-direction: column;
+}
+
+.dkp{
+  width:100%;
+}
+.bar{
+  height:50px;
+  display:flex;
+  flex-direction: column;
+  
+}
+span{
+  color:crimson
+}
+.abt{
+  text-decoration: none;
+}
+.btsr1{
+  display: flex;
+
+}
+.btsr{
+  display: flex;
+  
+
+}
+.search{
+  margin-left: auto;
+}
+.add-movie-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 16px;
+}

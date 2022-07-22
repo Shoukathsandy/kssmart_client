@@ -1,0 +1,17 @@
+/* .lay{
+    margin-top:100px;
+  
+} */
+.lay1{
+    background-color: white;
+    margin-top:100px;
+}
+.heading{
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+    font: 900;
+    font-style: inherit;
+    padding-top:20px;
+    color:#333333;
+}
